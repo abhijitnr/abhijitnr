@@ -1,4 +1,4 @@
-### Hi there 👋, I am Abhijit Biswas from Assam.
+### Hi there 👋, I am Abhijit Biswas.
 #### I am a passionate Full-Stack Web Developer from Assam ( India ).
 ![I am a passionate Full-Stack Web Developer from Assam ( India ).](https://file.mockplus.com/image/2018/09/ab8ebe26-a88f-4c14-aafb-0a12f18eada2.jpg)
 
