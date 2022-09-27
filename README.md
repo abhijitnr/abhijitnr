@@ -6,7 +6,7 @@ I am a quick learner. I always love to explore new things which makes me happy a
 
 Skills: HTML / CSS / JS / REACT JS / CHAKRA-UI / METERIAL-UI / BOOTSTRAP
 
-- 🔭 I’m currently working on SSENCE Clone 
+- 🔭 I’m currently working on REACT Projects
 - 🌱 I’m currently learning REACT JS 
 - 💬 Ask me about HTML / CSS / JS / REACT JS 
 - 📫 How to reach me: abhijitbiswas8859@gmail.com 
