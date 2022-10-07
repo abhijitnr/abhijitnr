@@ -1,14 +1,14 @@
-### Hi there 👋, I am Abhijit Biswas.
+### Hey 👋, I am Abhijit Biswas.
 #### I am a passionate Full-Stack Web Developer from Assam ( India ).
 ![I am a passionate Full-Stack Web Developer from Assam ( India ).](https://file.mockplus.com/image/2018/09/ab8ebe26-a88f-4c14-aafb-0a12f18eada2.jpg)
 
-I am a quick learner. I always love to explore new things which makes me happy and excited.
+I am a quick learner. I always love to learn and explore new things which makes me happy and excited.
 
 Skills: HTML / CSS / JS / REACT JS / CHAKRA-UI / METERIAL-UI / BOOTSTRAP
 
 - 🔭 I’m currently working on REACT Projects
-- 🌱 I’m currently learning REACT JS 
-- 💬 Ask me about HTML / CSS / JS / REACT JS 
+- 🌱 I’m currently learning REACT and JS
+- 💬 Ask me about HTML / CSS / JS / REACT JS / Chakra-UI / BOOTSTRAP
 - 📫 How to reach me: abhijitbiswas8859@gmail.com 
 
 
