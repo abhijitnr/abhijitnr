@@ -6,7 +6,7 @@ I am a quick learner. I always love to learn and explore new things which makes 
 
 Skills: HTML / CSS / JS / REACT JS / CHAKRA-UI / METERIAL-UI / BOOTSTRAP / NodeJS / MongoDB / ExpressJS
 
-- 🔭 I’m currently working on REACT Projects
+- 🔭 I’m currently working on REACT and MongoDB
 - 🌱 I’m currently learning REACT and JS
 - 💬 Ask me about HTML / CSS / JS / REACT JS / CHAKRA-UI / METERIAL-UI / BOOTSTRAP / NodeJS / MongoDB / ExpressJS
 - 📫 How to reach me: abhijitbiswas8859@gmail.com 
