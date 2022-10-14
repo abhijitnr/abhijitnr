@@ -2,7 +2,8 @@
 
 <br>
 <h1 align="center">Hi 👋, I'm Abhijit Biswas</h1>
-<h4>I am a Passionate and self-motivated aspiring full-stack developer from Assam ( India ). </h4>Specialization in MERN stack with a keen interest in learning and working with new technology. I always stay hungry to learn new thing. I love to explore the digital things and helping others who needed me . Love to work on different challenging projects.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Github+Profile;I+'m+A+Mern+Stack+Developer)](https://git.io/typing-svg)
+<b>I am a Passionate and self-motivated aspiring full-stack developer from Assam ( India ). </b>Specialization in MERN stack with a keen interest in learning and working with new technology. I always stay hungry to learn new thing. I love to explore the digital things and helping others who needed me . Love to work on different challenging projects.
 
 <br>
 <br>
