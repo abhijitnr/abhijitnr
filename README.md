@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on REACT Projects.
 - 🌱 I’m currently learning MERN and Javascript.
 - 💬 Ask me about HTML / CSS / JS / REACT JS / CHAKRA-UI / METERIAL-UI / BOOTSTRAP / NodeJS / MongoDB / ExpressJS
-- 📄 Look into my resume : [Abhijit_Biswas_Resume](<a href="https://drive.google.com/file/d/1jaQwBlpCLWsLddLHTDVFZWS8PvZEeAZG/view?usp=sharing" target="_blank"/>)
+- 📄 Look into my resume : [Abhijit_Biswas_Resume](https://drive.google.com/file/d/1jaQwBlpCLWsLddLHTDVFZWS8PvZEeAZG/view?usp=sharing)
 - 📫 How to reach me: abhijitbiswas8859@gmail.com
 
 
