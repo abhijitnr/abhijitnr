@@ -8,8 +8,8 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on REACT and MongoDB
-- 🌱 I’m currently learning MERN and Javascript
+- 🔭 I’m currently working on REACT Projects.
+- 🌱 I’m currently learning MERN and Javascript.
 - 💬 Ask me about HTML / CSS / JS / REACT JS / CHAKRA-UI / METERIAL-UI / BOOTSTRAP / NodeJS / MongoDB / ExpressJS
 - 📫 How to reach me: abhijitbiswas8859@gmail.com
 
