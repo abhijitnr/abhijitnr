@@ -1,6 +1,6 @@
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Github+Profile;I+'m+A+Mern+Stack+Developer)](https://git.io/typing-svg)</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Github+Profile;I+'m+A+Mern+Stack+Developer)](https://git.io/typing-svg)
 
-![I am a passionate Full-Stack Web Developer from Assam ( India ).]([https://file.mockplus.com/image/2018/09/ab8ebe26-a88f-4c14-aafb-0a12f18eada2.jpg](https://camo.githubusercontent.com/fcd090c9c08f460ac582d371fdd3f55ebeeb9dee107b68b42786a4b4cc0a1fd0/687474703a2f2f70726f70756c736976652e696e2f6173736574732f696d672f736572766963652d69636f6e2f7765622e676966))
+![]([https://file.mockplus.com/image/2018/09/ab8ebe26-a88f-4c14-aafb-0a12f18eada2.jpg](https://camo.githubusercontent.com/fcd090c9c08f460ac582d371fdd3f55ebeeb9dee107b68b42786a4b4cc0a1fd0/687474703a2f2f70726f70756c736976652e696e2f6173736574732f696d672f736572766963652d69636f6e2f7765622e676966))
 
 <br>
 <h1 align="center">Hi 👋, I'm Abhijit Biswas</h1>
