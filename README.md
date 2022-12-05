@@ -37,8 +37,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijitnr&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhijitnr)  
-
 ![GitHub metrics](https://metrics.lecoq.io/abhijitnr)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abhijitnr)  
