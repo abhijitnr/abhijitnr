@@ -36,6 +36,6 @@
 
 ![Abhijit Biswas's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijitnr&show_icons=true&theme=redical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abhijitnr&theme=jolly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abhijitnr&theme=javascript)](https://git.io/streak-stats)
 
 ![GitHub metrics](https://metrics.lecoq.io/abhijitnr)
