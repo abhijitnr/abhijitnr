@@ -34,8 +34,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitnr&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-![Abhijit Biswas's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijitnr&show_icons=true&theme=javascript)
+![Abhijit Biswas's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijitnr&show_icons=true&theme=redical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abhijitnr&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abhijitnr&theme=jolly)](https://git.io/streak-stats)
 
 ![GitHub metrics](https://metrics.lecoq.io/abhijitnr)
