@@ -36,8 +36,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijitnr&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/abhijitnr)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abhijitnr)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abhijitnr)  
-
-![Profile views](https://gpvc.arturio.dev/abhijitnr)  
+![GitHub metrics](https://metrics.lecoq.io/abhijitnr)
