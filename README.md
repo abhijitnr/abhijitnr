@@ -10,9 +10,9 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on **REACT Projects**
-- 🌱 I’m currently learning **MERN and Javascript**
-- 💬 Ask me about ***HTML / CSS / JS / REACT / MongoDB***
+- 🔭 I’m currently working on **MERN Projects**
+- 🌱 I’m currently learning **MERN STACK**
+- 💬 Ask me about ***HTML / CSS / JS / REACT***
 - 📄 Look into my resume : [Abhijit_Biswas_Resume](https://drive.google.com/file/d/1jaQwBlpCLWsLddLHTDVFZWS8PvZEeAZG/view?usp=sharing)
 - 👨‍💻 Look into my portfolio : [abhijit-biswas-portfolio](https://abhijitnr.github.io/)
 - 📫 How to reach me: abhijitbiswas8859@gmail.com
