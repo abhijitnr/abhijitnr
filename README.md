@@ -38,4 +38,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=abhijitnr&theme=sea)](https://git.io/streak-stats)
 
+https://github-readme-stats.vercel.app/api?username=[abhijitnr]
+
 ![GitHub metrics](https://metrics.lecoq.io/abhijitnr)
