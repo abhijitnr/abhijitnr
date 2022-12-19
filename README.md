@@ -38,4 +38,6 @@ A passionate and self-motivated aspiring full stack web developer from Masai sch
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=abhijitnr&theme=sea)](https://git.io/streak-stats)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhijitnr&theme=github_dark)
+
 ![GitHub metrics](https://metrics.lecoq.io/abhijitnr)
