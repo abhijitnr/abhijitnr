@@ -5,7 +5,7 @@
 <br>
 <h1 align="center">Hi 👋, I'm Abhijit Biswas</h1>
 <br>
-<b>I am a passionate and self-motivated aspiring full-stack developer from Assam (India).</b> Specialization in MERN stack with a keen interest in learning and working with new technology. I always stay hungry to learn new things. I love to explore digital things and help others who needed me. Love to work on different challenging projects.
+A passionate and self-motivated aspiring full stack web developer from Masai school with specialization in MERN stack. Having deep knowledge in writing a web application using both frontend and backend development tools. Looking for a job opportunity in a technology-driven organization that not only helps want to showcase their skill but also enhances their career and knowledge.
 
 <br>
 <br>
