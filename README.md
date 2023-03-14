@@ -3,15 +3,15 @@
 ![](https://camo.githubusercontent.com/fcd090c9c08f460ac582d371fdd3f55ebeeb9dee107b68b42786a4b4cc0a1fd0/687474703a2f2f70726f70756c736976652e696e2f6173736574732f696d672f736572766963652d69636f6e2f7765622e676966)
 
 <br>
-<h1 align="center">Hi 👋, I'm Abhijit Biswas</h1>
+<h1 align="center">Hey 👋, I am Abhijit Biswas</h1>
 <br>
-A passionate and self-motivated aspiring full stack web developer from Masai school with specialization in MERN stack. Having deep knowledge in writing a web application using both frontend and backend development tools. Looking for a job opportunity in a technology-driven organization that not only helps want to showcase their skill but also enhances their career and knowledge.
+As a self-motivated IT professional, I am passionate about utilizing HTML, CSS, and JavaScript to create web-based solutions. My skills in React, Redux, Express.js, MongoDB, and Node.js allow me to effectively solve problems.
 
 <br>
 <br>
 
 - 🔭 I’m currently working on **MERN Projects**
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **New Tech Stacks**
 - 💬 Ask me about ***HTML / CSS / JS / REACT***
 - 📄 Look into my resume : [Abhijit_Biswas_Resume](https://drive.google.com/file/d/1jaQwBlpCLWsLddLHTDVFZWS8PvZEeAZG/view?usp=sharing)
 - 👨‍💻 Look into my portfolio : [abhijit-biswas-portfolio](https://abhijitnr.github.io/)
